@@ -5,7 +5,7 @@ import { useEffect,useState } from "react";
 import MovieCard from "./MovieCard";
 import  ReactDOM  from "react-dom";
 //c638eef6
-
+//SSS
 const API_URL='http://www.omdbapi.com?apikey=c638eef6'
 
 const  movie1={
